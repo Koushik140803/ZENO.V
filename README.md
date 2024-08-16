@@ -15,9 +15,12 @@ __Note__: there is another file facerecogn which need not be run separately but 
 __Conclusion__ :  
 __As mentioned this is a basic model with basic functions also this model can be always improved in many ways that is the reason this was the first project as a team.__  
 __Acknowledgments__:  
--this is a collaborative effort, and these are my fellow contributors  
+-this is a collaborative effort,with equal contributions from my fellow contributors  
 --**[Abin Aiyspps MV]**:[Co-developer]  
- --Github: [https://github.com/AbinAiyappaMV29]  
+&nbsp;&nbsp;&nbsp;--Github: [https://github.com/AbinAiyappaMV29]  
+--**[Gopal Kattimani]**:[Co-developer]  
+&nbsp;&nbsp;&nbsp;--Github: [(https://github.com/Gopalkattiamni)]  
 --**[S Deva Dharshan]**:[Co-developer]  
- --Github: [https://github.com/devadharshan07]  
- __For any queries or contributions can contant me at [koushik.murthy03@gmail.com]__  
+&nbsp;&nbsp;&nbsp;--Github: [https://github.com/devadharshan07]  
+ __NOTE:-__ _FOR ANY FURTHUR QUERIES, FEEDBACK OR CONTRIBUTIONS, CONTACT ME AT [koushik.murthy03@gmail.com]
+
