@@ -13,7 +13,7 @@ __Step3-Run personal.py__
 &nbsp;&nbsp;&nbsp;-this file uses a wide range of AI technologies Pyttsx3 for text-to-speech conversion,Speech recognition for speech-to-text conversion and it &nbsp;&nbsp;&nbsp;first verifies the user using LBPH algorithm and &nbsp;&nbsp;&nbsp;many other modules to do various task like opening application,playing music,sending &nbsp;&nbsp;&nbsp;emails,speed test and many other.  
 __Note__: there is another file facerecogn which need not be run separately but it always better to have a separte file.  
 ## __Conclusion__  
-__As mentioned this is a basic model with basic functions also this model can be always improved in many ways that is the reason this was the first project as a team.__  
+__ this was my first academic project as a team.As mentioned this is a basic model with basic functions also this model can be always improved in many ways especially in automation.__  
 ## __Acknowledgments__  
 -this is a collaborative effort,with equal contributions from my fellow contributors  
 --**[Abin Aiyspps MV]**:[Co-developer]  
